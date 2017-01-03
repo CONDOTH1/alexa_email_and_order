@@ -1,2 +1,4 @@
 .env
 node_modules
+html.html
+.DS_Store
